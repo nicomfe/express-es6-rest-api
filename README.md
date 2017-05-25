@@ -1,3 +1,6 @@
+to start:
+npm run dev
+
 Express & ES6 REST API Boilerplate
 ==================================
 
